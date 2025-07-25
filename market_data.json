@@ -1,0 +1,185 @@
+{
+  "as_of": "2025-06-30",
+  "currency": "INR",
+  "stocks": [
+    {
+      "symbol": "SYM001",
+      "name": "Company001 Ltd",
+      "sector": "Banking",
+      "growth_pct_yoy": 8.01
+    },
+    {
+      "symbol": "SYM002",
+      "name": "Company002 Ltd",
+      "sector": "FMCG",
+      "growth_pct_yoy": 22.82
+    },
+    {
+      "symbol": "SYM003",
+      "name": "Company003 Ltd",
+      "sector": "Banking",
+      "growth_pct_yoy": 8.19
+    },
+    {
+      "symbol": "SYM004",
+      "name": "Company004 Ltd",
+      "sector": "NBFC",
+      "growth_pct_yoy": 17.2
+    },
+    {
+      "symbol": "SYM005",
+      "name": "Company005 Ltd",
+      "sector": "Energy",
+      "growth_pct_yoy": 21.67
+    },
+    {
+      "symbol": "SYM006",
+      "name": "Company006 Ltd",
+      "sector": "Pharma",
+      "growth_pct_yoy": 18.0
+    },
+    {
+      "symbol": "SYM007",
+      "name": "Company007 Ltd",
+      "sector": "Telecom",
+      "growth_pct_yoy": 5.77
+    },
+    {
+      "symbol": "SYM008",
+      "name": "Company008 Ltd",
+      "sector": "Banking",
+      "growth_pct_yoy": 15.66
+    },
+    {
+      "symbol": "SYM009",
+      "name": "Company009 Ltd",
+      "sector": "NBFC",
+      "growth_pct_yoy": 11.88
+    },
+    {
+      "symbol": "SYM010",
+      "name": "Company010 Ltd",
+      "sector": "Telecom",
+      "growth_pct_yoy": 11.78
+    }
+  ],
+  "mutual_funds": [
+    {
+      "code": "MF_DE_001",
+      "name": "Debt Fund 1",
+      "category": "Debt",
+      "return_pct_3y_cagr": 11.69
+    },
+    {
+      "code": "MF_IN_002",
+      "name": "Index Fund 2",
+      "category": "Index",
+      "return_pct_3y_cagr": 8.35
+    },
+    {
+      "code": "MF_HY_003",
+      "name": "Hybrid Fund 3",
+      "category": "Hybrid",
+      "return_pct_3y_cagr": 9.92
+    },
+    {
+      "code": "MF_IN_004",
+      "name": "Index Fund 4",
+      "category": "Index",
+      "return_pct_3y_cagr": 10.94
+    },
+    {
+      "code": "MF_EQ_005",
+      "name": "Equity Fund 5",
+      "category": "Equity",
+      "return_pct_3y_cagr": 14.17
+    },
+    {
+      "code": "MF_HY_006",
+      "name": "Hybrid Fund 6",
+      "category": "Hybrid",
+      "return_pct_3y_cagr": 14.72
+    },
+    {
+      "code": "MF_DE_007",
+      "name": "Debt Fund 7",
+      "category": "Debt",
+      "return_pct_3y_cagr": 8.7
+    },
+    {
+      "code": "MF_IN_008",
+      "name": "Index Fund 8",
+      "category": "Index",
+      "return_pct_3y_cagr": 16.1
+    },
+    {
+      "code": "MF_TH_009",
+      "name": "Thematic Fund 9",
+      "category": "Thematic",
+      "return_pct_3y_cagr": 11.33
+    },
+    {
+      "code": "MF_IN_010",
+      "name": "Index Fund 10",
+      "category": "Index",
+      "return_pct_3y_cagr": 17.2
+    }
+  ],
+  "fixed_deposits": [
+    {
+      "bank": "TrustBank",
+      "tenure_months": 60,
+      "rate_pct": 7.05
+    },
+    {
+      "bank": "NeoBank",
+      "tenure_months": 36,
+      "rate_pct": 6.18
+    },
+    {
+      "bank": "SafeBank",
+      "tenure_months": 48,
+      "rate_pct": 6.99
+    },
+    {
+      "bank": "GrowBank",
+      "tenure_months": 36,
+      "rate_pct": 8.44
+    },
+    {
+      "bank": "TrustBank",
+      "tenure_months": 6,
+      "rate_pct": 6.49
+    },
+    {
+      "bank": "GrowBank",
+      "tenure_months": 48,
+      "rate_pct": 5.67
+    },
+    {
+      "bank": "SecureBank",
+      "tenure_months": 12,
+      "rate_pct": 6.24
+    },
+    {
+      "bank": "SecureBank",
+      "tenure_months": 60,
+      "rate_pct": 5.77
+    },
+    {
+      "bank": "NeoBank",
+      "tenure_months": 24,
+      "rate_pct": 5.2
+    },
+    {
+      "bank": "GrowBank",
+      "tenure_months": 12,
+      "rate_pct": 5.03
+    },
+    {
+      "bank": "SecureBank",
+      "tenure_months": 24,
+      "rate_pct": 8.32
+    }
+  ]
+}
